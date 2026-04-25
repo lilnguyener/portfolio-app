@@ -1,6 +1,6 @@
 # Lily's Portfolio
 
-A personal portfolio website built with React.js, showcasing my projects, skills, and experience.
+A personal portfolio website built with React.js, showcasing my projects, skills, and experience; created for DIG 4639c Final Project.
 
 ## Live Demo
 [https://lilnguyener.github.io/portfolio-app](https://lilnguyener.github.io/portfolio-app)
@@ -9,10 +9,10 @@ A personal portfolio website built with React.js, showcasing my projects, skills
 - Animal Crossing NookPhone-inspired home screen
 - About page with skills and interests
 - Projects showcase with 3 projects
-- Contact form with validation
-- Responsive design across desktop, tablet, and mobile
-- Smooth animations with Framer Motion
-- Strawberry matcha color theme
+- Contact form with validation through FormSpree
+- Responsive design across desktop and mobile phones
+- Animations created with Framer Motion
+- Strawberry matcha pink & green color theme
 
 ## Tech Stack
 - React.js
