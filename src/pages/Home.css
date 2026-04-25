@@ -1,0 +1,116 @@
+.home {
+  min-height: calc(100vh - 120px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  background: linear-gradient(135deg, #fdf6f0 0%, #fcd5da 50%, #c8e6c8 100%);
+}
+
+.phone-frame {
+  background: linear-gradient(160deg, #fff9f6, #fdf0f3);
+  border-radius: 40px;
+  border: 3px solid #f0dada;
+  width: 340px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(232, 99, 122, 0.15);
+}
+
+.phone-header {
+  background-color: #e8637a;
+  padding: 16px 24px;
+  display: flex;
+  justify-content: center;
+}
+
+.phone-title {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 900;
+  font-size: 17px;
+  color: white;
+  letter-spacing: 0.5px;
+}
+
+.phone-body {
+  padding: 24px 20px 28px;
+}
+
+.profile-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin-bottom: 28px;
+}
+
+.profile-pic-wrapper {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid var(--strawberry);
+  flex-shrink: 0;
+}
+
+.profile-pic {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.speech-bubble {
+  background: white;
+  border: 2px solid var(--border);
+  border-radius: 18px 18px 18px 4px;
+  padding: 10px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  flex: 1;
+}
+
+.speech-bubble span:first-child {
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--text);
+}
+
+.speech-sub {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.nook-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.nook-btn {
+  border: none;
+  border-radius: 18px;
+  padding: 16px 8px 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.nook-icon {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
+}
+
+.nook-label {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  font-size: 12px;
+  color: white;
+  letter-spacing: 0.3px;
+}
