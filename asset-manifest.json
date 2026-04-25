@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.2b5ebe1f.css",
+    "main.js": "/portfolio-app/static/js/main.5cc0ba38.js",
+    "static/js/453.e90f4a34.chunk.js": "/portfolio-app/static/js/453.e90f4a34.chunk.js",
+    "static/media/ersticker.jpg": "/portfolio-app/static/media/ersticker.697e0ded5c761e8b8ce4.jpg",
+    "static/media/lilyportfolio.png": "/portfolio-app/static/media/lilyportfolio.11a256ca79c5f6786e45.png",
+    "static/media/towerworkshop.jpg": "/portfolio-app/static/media/towerworkshop.36b2d8a45c575cfad898.jpg",
+    "static/media/perseusad.jpg": "/portfolio-app/static/media/perseusad.3313a6c330789afbd19c.jpg",
+    "static/media/lilyreveal.jpg": "/portfolio-app/static/media/lilyreveal.eb8259e13b2c369fc1b1.jpg",
+    "static/media/ucfsaseaward.jpg": "/portfolio-app/static/media/ucfsaseaward.b0a569ec3c956d251754.jpg",
+    "static/media/lanterns.jpg": "/portfolio-app/static/media/lanterns.edaddf74c78000173544.jpg",
+    "static/media/imvolley.jpg": "/portfolio-app/static/media/imvolley.6c5e508242005bf742e6.jpg",
+    "static/media/KnightedSticker.jpg": "/portfolio-app/static/media/KnightedSticker.b0e51b36e5d18a5aab52.jpg",
+    "static/media/bakesale.jpg": "/portfolio-app/static/media/bakesale.adb7be34b9cc30d1623e.jpg",
+    "static/media/knighted.jpg": "/portfolio-app/static/media/knighted.1310c4de8f0f65069818.jpg",
+    "static/media/csv.jpg": "/portfolio-app/static/media/csv.6db1eac3d23cba10dfd0.jpg",
+    "static/media/Intro.jpg": "/portfolio-app/static/media/Intro.07afb0aea8b757cc756c.jpg",
+    "static/media/SERCpacket.png": "/portfolio-app/static/media/SERCpacket.b5ff177b9f5bc2364e30.png",
+    "static/media/NES.png": "/portfolio-app/static/media/NES.ace10f96f8fe3d0b2866.png",
+    "index.html": "/portfolio-app/index.html",
+    "main.2b5ebe1f.css.map": "/portfolio-app/static/css/main.2b5ebe1f.css.map",
+    "main.5cc0ba38.js.map": "/portfolio-app/static/js/main.5cc0ba38.js.map",
+    "453.e90f4a34.chunk.js.map": "/portfolio-app/static/js/453.e90f4a34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b5ebe1f.css",
+    "static/js/main.5cc0ba38.js"
+  ]
+}
